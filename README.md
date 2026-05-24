@@ -100,6 +100,7 @@ The ad group (565K users) is significantly larger than the PSA group (24K users)
 
 - **Python** — pandas, scipy, numpy (statistical testing)
 - **Power BI** — DAX measures, interactive dashboard
+- **PostgreSQL** — SQL query analysis
 - **Dataset** — Kaggle (public domain)
 
 ---
